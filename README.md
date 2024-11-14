@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thebluedragon7
-- 👀 I’m interested in Android and Web Development
+- 👀 I’m interested in Mobile and Web Development
 
 
 
